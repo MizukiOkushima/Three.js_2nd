@@ -1,7 +1,6 @@
 # Three.js_2nd
 ### 概要
 Three.jsのお試し作成<br>
-公開URL:http://yakechiki.php.xdomain.jp/Three.js_2nd
 
 ### 目的
 ・Three.jsの基礎的学習<br>
@@ -9,6 +8,17 @@ Three.jsのお試し作成<br>
 
 ### 仕様
 ・スクロールの位置(0-20, 20-40, 60-80, 80-101)に合わせたカメラとモデルの変化
+
+### 環境構築
+1.  ターミナルにてソースをcloneしたいディレクトリで下記を実行する。<br>
+    ``` git clone git@github.com:MizukiOkushima/Three.js_2nd.git ```
+
+2.  cloneした「Three.js_2nd」フォルダ内にて下記を実行しviteを使用する。<br>
+    ``` cd Three.js_2nd ```<br>
+    ``` npm run dev ```
+
+3.  ブラウザにて下記のURLにアクセスする。<br>
+    http://localhost:3000/
 
 ### ページスクリーンショット<br>
 ![スクリーンショット2022-12-31（18 38 48）（小）](https://user-images.githubusercontent.com/95268598/210132203-d32895d5-e5a1-4f4f-a37b-055c2f820872.jpeg)
