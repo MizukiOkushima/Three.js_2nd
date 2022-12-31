@@ -20,7 +20,7 @@ Three.jsのお試し作成<br>
     ![スクリーンショット 2022-12-31 20 28 50](https://user-images.githubusercontent.com/95268598/210135123-973429a1-44ae-4270-8d43-d78b337edc17.png)
 
 
-2.  cloneした「Three.js_2nd」フォルダ内にて下記を実行しviteを使用する。<br>
+2.  ターミナルにてcloneした「Three.js_2nd」フォルダ内で下記を実行しviteを使用する。<br>
     ``` terminal
     cd Three.js_2nd
     npm run dev
