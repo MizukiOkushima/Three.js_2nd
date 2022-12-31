@@ -28,6 +28,16 @@ Three.jsのお試し作成<br>
 
 3.  ブラウザにて下記のURLにアクセスする。<br>
     http://localhost:3000/
+    
+    ※ 終了の際はターミナルにて下記のコマンドでサーバーを終了してください。<br>
+    ##### macOS
+    ```macOS
+    control + c
+    ```
+    ##### windows
+    ```windows
+    Ctrl + c
+    ```
 
 ### ページスクリーンショット<br>
 ![スクリーンショット2022-12-31（18 38 48）（小）](https://user-images.githubusercontent.com/95268598/210132203-d32895d5-e5a1-4f4f-a37b-055c2f820872.jpeg)
