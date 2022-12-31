@@ -11,7 +11,9 @@ Three.jsのお試し作成<br>
 
 ### 環境構築
 1.  ターミナルにてソースをcloneしたいディレクトリで下記を実行する。<br>
-    ``` git clone git@github.com:MizukiOkushima/Three.js_2nd.git ```
+    ``` terminal
+    git clone git@github.com:MizukiOkushima/Three.js_2nd.git
+    ```
     
     ※ gitがインストールされていない環境の場合、ページ内zipファイルをダウンロードしてください。<br>
     
@@ -19,8 +21,10 @@ Three.jsのお試し作成<br>
 
 
 2.  cloneした「Three.js_2nd」フォルダ内にて下記を実行しviteを使用する。<br>
-    ``` cd Three.js_2nd ```<br>
-    ``` npm run dev ```
+    ``` terminal
+    cd Three.js_2nd
+    npm run dev
+    ```
 
 3.  ブラウザにて下記のURLにアクセスする。<br>
     http://localhost:3000/
